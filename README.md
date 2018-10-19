@@ -1,5 +1,5 @@
-# Phuket (Design Patterns)
-Code Samples for the Blog Article [Design Patterns - Series I (01/02)] 
+# Pattaya (Gang of Four Design Patterns)
+Code Samples for the Blog Article [Design Patterns - Series II] 
 <br>
 
 MIT License
@@ -15,10 +15,10 @@ https://github.com/sumithpuri
 	
 |Project Codename|Phuket|
 |--|--|
-| Blog Post URL | http://www.techilashots.com/2008/11/design-patterns-series-i.html |
-|Blog Short URL	|https://goo.gl/kmSDiV |
-|Package Prefix|me.sumithpuri.github.phuket |
-|GitHub URL|https://github.com/sumithpuri/skp-code-marathon-phuket |
+| Blog Post URL | http://www.techilashots.com/2008/12/design-patterns-series-ii.html |
+|Blog Short URL	|https://goo.gl/XCc2gx |
+|Package Prefix|me.sumithpuri.github.pattaya |
+|GitHub URL|https://github.com/sumithpuri/skp-code-marathon-pattaya |
 |Contact E-Mail  |code@sumithpuri.me|
 |Contact Number|+91 9591497974 (WhatsApp, Viber)|
 
