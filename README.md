@@ -13,7 +13,7 @@ https://github.com/sumithpuri
 <br>
 
 	
-|Project Codename|Phuket|
+|Project Codename|Pattaya|
 |--|--|
 | Blog Post URL | http://www.techilashots.com/2008/12/design-patterns-series-ii.html |
 |Blog Short URL	|https://goo.gl/XCc2gx |
